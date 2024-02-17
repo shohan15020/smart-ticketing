@@ -56,3 +56,11 @@
   font-size: 18px;
   padding: 17px 45px;
 }
+
+.seat-title{
+  color: #030712;
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  margin-bottom: 16px;
+  margin-top: 16px;
+}
