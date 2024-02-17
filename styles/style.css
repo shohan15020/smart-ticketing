@@ -1,0 +1,58 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* // <uniquifier>: Use a uniquifier for the class name
+// <weight>: Use a value from 100 to 900 */
+
+.font-inter{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0; */
+}
+
+
+/* // <uniquifier>: Use a uniquifier for the class name
+// <weight>: Use a value from 100 to 900 */
+
+.font-raleway{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>;
+  font-style: normal; */
+}
+
+.border-radius{
+  border-radius: 32px;
+}
+.border-radius2{
+  border-radius: 88px 88px 0px 0px;
+}
+.gray{
+  color: #03071280;
+}
+.green{
+  color: #1DD100;
+}
+.gray-text{
+  color: #03071299;
+  font-family: "Inter", sans-serif;
+}
+.seat-btn{
+  color: #03071280;
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  padding: 17px 45px;
+  border-radius: 12px;
+  background-color: #F7F8F8;
+}
+.seat-btn1{
+  color: #03071280;
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  padding: 17px 45px;
+}
