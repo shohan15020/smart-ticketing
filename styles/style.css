@@ -64,3 +64,8 @@
   margin-bottom: 16px;
   margin-top: 16px;
 }
+.hide {
+  opacity: 0.2;
+  
+  pointer-events: none;
+}
