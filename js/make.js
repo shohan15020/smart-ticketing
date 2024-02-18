@@ -51,12 +51,7 @@ for(let btn of allBtn){
         li.appendChild(p2);
         
         ticketShow.appendChild(li);
-        // get the total price
-        // ConvertedTotal = parseInt(total);
-
-        // sum = ConvertedTotal + parseInt(p2);
-        // console.log( sum);
-        // total price count
+        
         console.log(typeof totalPrice);
         
         totalPrice = totalPrice + parseInt(price);
@@ -127,9 +122,6 @@ apply.addEventListener('click', function(){
         document.getElementById('input-field').value = '';
     }
 })
-
-// next and modal 
-
 
 // set innerText
 function setInnerText(id, value) {
